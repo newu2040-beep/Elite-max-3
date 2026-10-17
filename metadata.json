@@ -1,0 +1,6 @@
+{
+  "name": "EliteMax",
+  "description": "Premium on-device video and photo enhancement and compression utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

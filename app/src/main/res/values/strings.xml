@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EliteMax</string>
+    <string name="brand_wordmark">ELITEMAX</string>
+    <string name="tagline_main">Sharper. Clearer. Better.</string>
+    <string name="tagline_sub">On-device enhancement &amp; compression.</string>
+    <string name="welcome_heading_line1">Media Quality</string>
+    <string name="welcome_heading_line2">Review</string>
+    <string name="action_get_started">Get Started</string>
+    <string name="home_heading_line1">Better media.</string>
+    <string name="home_heading_line2">Less space.</string>
+    <string name="home_supporting_text">Enhance your photos and videos. Compress to save storage. All on your device.</string>
+    <string name="tool_video_enhancer">Video Enhancer</string>
+    <string name="tool_photo_enhancer">Photo Enhancer</string>
+    <string name="tool_video_compressor">Video Compressor</string>
+    <string name="tool_photo_compressor">Photo Compressor</string>
+    <string name="action_export_video">Export Video</string>
+    <string name="action_export_photo">Export Photo</string>
+    <string name="action_compress_video">Compress Video</string>
+    <string name="action_compress_photo">Compress Photo</string>
+    <string name="action_open_file">Open File</string>
+    <string name="action_share">Share</string>
+    <string name="action_back_to_home">Back to Home</string>
+    <string name="action_save_another">Process Another</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+</resources>
